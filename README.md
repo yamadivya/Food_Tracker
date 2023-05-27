@@ -1,1 +1,1 @@
-# Food_Tracker
+Calculates percentage of each nutrient
